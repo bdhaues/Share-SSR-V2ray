@@ -1,6 +1,6 @@
 **本文档仅为学习交流使用**
 
-![stars](https://img.shields.io/github/stars/selierlin/Share-SSR-V2ray.svg?style=social&label=Stars)
+![stars](https://img.shields.io/github/stars/bdhaues/Share-SSR-V2ray.svg?style=social&label=Stars)
 
 本文档只保证可科学上网，并不保证稳定、速度。
 
